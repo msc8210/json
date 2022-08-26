@@ -1,0 +1,1218 @@
+{
+	"providerName": "Ladylike Productions",
+	"language": "en-us",
+	"rating": {
+		"rating": "TVG",
+		"ratingSource": "USA_PR"
+  },
+	"lastUpdated": "2022-08-18T17:32:44+0000",
+	"series": [
+    {
+			"id": "series_the-banks-sisters-act",
+			"title": "The Banks Sister Act",
+			"releaseDate": "2021-12-01T10:30:00+02:00",
+			"shortDescription": "The Banks Sister Act is a complete escape to Sisterhood! Join Laverne and Shawvan Banks on their journey as they clumsily navigate through the highs and lows of girlhood.",
+      "longDescription": "The Banks Sister Act is your complete escape to Sisterhood! Join their Act and follow their twintastic journey as Laverne and Shawvan Banks clumsily navigate through the highs and lows of girlhood. The sisters, their friends and  teachers attempt to make sense of the double trouble duo.",
+      "thumbnail": "https://static.wixstatic.com/media/0543c0_1613abd0b72b4d79810af9f637fe0910~mv2.png",
+			"genres": [
+				"comedy",
+        "drama"
+			],
+			"tags": [
+        "teenager",
+        "high school",
+        "funny twins",
+        "twin girls",
+        "comedy",
+        "sisters",
+        "sister act",
+        "banks twins",
+        "teen girls",
+        "sisterhood"
+      ],
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "episodes": [
+            {
+              "id": "S01EP01-737215272",
+    					"title": "Have My Baby",
+    					"episodeNumber": 1,
+    					"content": {
+    						"dateAdded": "2022-08-18T17:32:44+0000",
+    						"videos": [{
+    							"videoType": "HLS",
+    							"url": "https://player.vimeo.com/external/737215272.m3u8?s=bb27c82e3905c34496493ba4bf1dea816fc43cc3",
+    							"quality": "FHD"
+    						}],
+    						"duration": 1331,
+    						"language": "en-us"
+    					},
+    					"thumbnail": "https://static.wixstatic.com/media/0543c0_425eac3cfc0e416ab3c23bc1235a6862~mv2.png",
+    					"releaseDate": "2021-12-1",
+    					"shortDescription": "The twins strive to pass their first assignment in home economics by rearing a 'fake' child",
+    					"longDescription": "The twins strive to pass their first assignment in home economics by rearing a 'fake' child. Shawvan struggles to find a suitable father for the experiment, and Laverne and Veronica have opposing views for parenthood.",
+              "credits": [
+                {
+                  "name": "Laverne Banks",
+                  "role": "actor",
+                  "birthDate": "1988-01-14"
+                },
+                {
+                  "name": "Shawvan Banks",
+                  "role": "actor",
+                  "birthDate": "1988-01-14"
+                },
+                {
+                  "name": "Veronica Lowe",
+                  "role": "actor",
+                  "birthDate": "1991-07-20"
+                },
+                {
+                  "name": "Brendon Brewer",
+                  "role": "actor",
+                  "birthDate": "1995-07-05"
+                },
+                {
+                  "name": "David Damelio Nicholas",
+                  "role": "actor",
+                  "birthDate": "2000-02-21"
+                },
+                {
+                  "name": "Liz Chuday",
+                  "role": "actor",
+                  "birthDate": "1956-11-20"
+                }
+              ],
+              "rating": {
+                "rating": "TVG",
+                "ratingSource": "USA_PR"
+              },
+              "genres": [
+        				"comedy",
+                "drama"
+        			],
+        			"tags": [
+                "teenager",
+                "high school",
+                "funny twins",
+                "twin girls",
+                "comedy",
+                "sisters",
+                "sister act",
+                "banks twins",
+                "teen girls",
+                "sisterhood"
+              ]
+    				},
+            {
+              "id": "S01EP02-737217375",
+    					"title": "The Great Fake Off",
+    					"episodeNumber": 2,
+    					"content": {
+    						"dateAdded": "2022-08-18T17:32:44+0000",
+    						"videos": [{
+    							"videoType": "HLS",
+    							"url": "https://player.vimeo.com/external/737217375.m3u8?s=f1e45ce5632a941587ceb48f447668cd09b7ab2c",
+    							"quality": "FHD"
+    						}],
+    						"duration": 1314,
+    						"language": "en-us"
+    					},
+    					"thumbnail": "https://static.wixstatic.com/media/0543c0_dbfc44b8ffdf4b7eb3db2c249a40d31e~mv2.jpg",
+    					"releaseDate": "2021-12-1",
+    					"shortDescription": "The sisters attempt to redeem their failed business venture by entering a bake contest.",
+    					"longDescription": "The sisters attempt to redeem their failed business venture by entering a bake contest. Laverne convinces Shawvan to lie about their baking skills, while Veronica is set to expose the truth.",
+              "credits": [
+                {
+                  "name": "Laverne Banks",
+                  "role": "actor",
+                  "birthDate": "1988-01-14"
+                },
+                {
+                  "name": "Shawvan Banks",
+                  "role": "actor",
+                  "birthDate": "1988-01-14"
+                },
+                {
+                  "name": "Dan Verkman",
+                  "role": "actor",
+                  "birthDate": "1965-01-19"
+                },
+                {
+                  "name": "Gina Nicole Brown",
+                  "role": "actor",
+                  "birthDate": "1966-12-28"
+                },
+                {
+                  "name": "Veronica Lowe",
+                  "role": "actor",
+                  "birthDate": "1991-07-20"
+                },
+                {
+                  "name": "Sidney Allen",
+                  "role": "actor",
+                  "birthDate": "1985-01-14"
+                },
+                {
+                  "name": "Erin Crocker",
+                  "role": "actor",
+                  "birthDate": "1982-10-13"
+                },
+                {
+                  "name": "Liz Chuday",
+                  "role": "actor",
+                  "birthDate": "1956-11-20"
+                },
+                {
+                  "name": "James Durbin",
+                  "role": "actor",
+                  "birthDate": "1995-01-01"
+                }
+              ],
+              "rating": {
+                "rating": "TVG",
+                "ratingSource": "USA_PR"
+              },
+              "genres": [
+        				"comedy",
+                "drama"
+        			],
+        			"tags": [
+                "teenager",
+                "high school",
+                "funny twins",
+                "twin girls",
+                "comedy",
+                "sisters",
+                "sister act",
+                "banks twins",
+                "teen girls",
+                "sisterhood"
+              ]
+    				},
+            {
+              "id": "S01EP03-737218666",
+    					"title": "Family Therapy",
+    					"episodeNumber": 3,
+    					"content": {
+    						"dateAdded": "2022-08-18T17:32:44+0000",
+    						"videos": [{
+    							"videoType": "HLS",
+    							"url": "https://player.vimeo.com/external/737218666.m3u8?s=bef6511903f0ac1088895edddd9edf0179450989",
+    							"quality": "FHD"
+    						}],
+    						"duration": 1471,
+    						"language": "en-us"
+    					},
+    					"thumbnail": "https://static.wixstatic.com/media/0543c0_eec0ee3a6dc64fe7a65c59346f09749f~mv2.jpg",
+    					"releaseDate": "2021-12-1",
+    					"shortDescription": "Therapy seems to be the best option when the sisters try to resolve their sibling rivalry.",
+    					"longDescription": "Therapy seems to be the best option when the sisters try to resolve their sibling rivalry. The sisters decide that it would be best to find time apart with other people.",
+              "credits": [
+                {
+                  "name": "Laverne Banks",
+                  "role": "actor",
+                  "birthDate": "1988-01-14"
+                },
+                {
+                  "name": "Shawvan Banks",
+                  "role": "actor",
+                  "birthDate": "1988-01-14"
+                },
+                {
+                  "name": "Amy Kriner",
+                  "role": "actor",
+                  "birthDate": "1975-02-01"
+                },
+                {
+                  "name": "Veronica Lowe",
+                  "role": "actor",
+                  "birthDate": "1991-07-20"
+                },
+                {
+                  "name": "Brendon Brewer",
+                  "role": "actor",
+                  "birthDate": "1995-07-05"
+                }
+              ],
+              "rating": {
+                "rating": "TVG",
+                "ratingSource": "USA_PR"
+              },
+              "genres": [
+        				"comedy",
+                "drama"
+        			],
+        			"tags": [
+                "teenager",
+                "high school",
+                "funny twins",
+                "twin girls",
+                "comedy",
+                "sisters",
+                "sister act",
+                "banks twins",
+                "teen girls",
+                "sisterhood"
+              ]
+    				},
+            {
+              "id": "S01EP04-737219037",
+    					"title": "Sister Fight",
+    					"episodeNumber": 4,
+    					"content": {
+    						"dateAdded": "2022-08-18T17:32:44+0000",
+    						"videos": [{
+    							"videoType": "HLS",
+    							"url": "https://player.vimeo.com/external/737219037.m3u8?s=dc14828322127b90ffaf62e908a7c37a0176e7f1",
+    							"quality": "FHD"
+    						}],
+    						"duration": 1325,
+    						"language": "en-us"
+    					},
+    					"thumbnail": "https://static.wixstatic.com/media/0543c0_22b854f0fc084947babd1a94c586ee06~mv2.jpg",
+    					"releaseDate": "2021-12-1",
+    					"shortDescription": "The test of wits is displayed when the twins challenge each other in a sisterly boxing match.",
+    					"longDescription": "The test of wits is displayed when the twins challenge each other in a sisterly boxing match. The fighting appears to go in one sisters favor, while the other trains for failure.",
+              "credits": [
+                {
+                  "name": "Laverne Banks",
+                  "role": "actor",
+                  "birthDate": "1988-01-14"
+                },
+                {
+                  "name": "Shawvan Banks",
+                  "role": "actor",
+                  "birthDate": "1988-01-14"
+                },
+                {
+                  "name": "Veronica Lowe",
+                  "role": "actor",
+                  "birthDate": "1991-07-20"
+                },
+                {
+                  "name": "Brendon Brewer",
+                  "role": "actor",
+                  "birthDate": "1995-07-05"
+                },
+                {
+                  "name": "David Damelio Nicholas",
+                  "role": "actor",
+                  "birthDate": "2000-02-21"
+                },
+                {
+                  "name": "James Durbin",
+                  "role": "actor",
+                  "birthDate": "1995-01-01"
+                }
+              ],
+              "rating": {
+                "rating": "TVG",
+                "ratingSource": "USA_PR"
+              },
+              "genres": [
+        				"comedy",
+                "drama"
+        			],
+        			"tags": [
+                "teenager",
+                "high school",
+                "funny twins",
+                "twin girls",
+                "comedy",
+                "sisters",
+                "sister act",
+                "banks twins",
+                "teen girls",
+                "sisterhood"
+              ]
+    				},
+            {
+              "id": "S01EP05-737219645",
+    					"title": "Godfather",
+    					"episodeNumber": 5,
+    					"content": {
+    						"dateAdded": "2022-08-18T17:32:44+0000",
+    						"videos": [{
+    							"videoType": "HLS",
+    							"url": "https://player.vimeo.com/external/737219645.m3u8?s=e2f7df0f06956fc9f40d3d022b7d3ade54117ce0",
+    							"quality": "FHD"
+    						}],
+    						"duration": 1265,
+    						"language": "en-us"
+    					},
+    					"thumbnail": "https://static.wixstatic.com/media/0543c0_0ca1bdf691f3452e9262692993f5f51e~mv2.jpg",
+    					"releaseDate": "2021-12-1",
+    					"shortDescription": "The quest to be 'popular' lands one twin in an interrogation room where she needs to be rescued.",
+    					"longDescription": "The quest to be 'popular' lands one twin in an interrogation room where she needs to be rescued. Laverne tries to discover who has been sabatoaging her chances at new popularity status.",
+              "credits": [
+                {
+                  "name": "Laverne Banks",
+                  "role": "actor",
+                  "birthDate": "1988-01-14"
+                },
+                {
+                  "name": "Shawvan Banks",
+                  "role": "actor",
+                  "birthDate": "1988-01-14"
+                },
+                {
+                  "name": "Amber Crump",
+                  "role": "actor",
+                  "birthDate": "1997-04-14"
+                },
+                {
+                  "name": "Jerrika Anderson Edwards",
+                  "role": "actor",
+                  "birthDate": "1991-11-05"
+                },
+                {
+                  "name": "Victoria Stevens",
+                  "role": "actor",
+                  "birthDate": "1986-01-15"
+                },
+                {
+                  "name": "Veronica Lowe",
+                  "role": "actor",
+                  "birthDate": "1991-07-20"
+                },
+                {
+                  "name": "Siaka Bafalie",
+                  "role": "actor",
+                  "birthDate": "1997-04-01"
+                },
+								{
+                  "name": "J Alexa",
+                  "role": "actor",
+                  "birthDate": "1987-12-15"
+                }
+              ],
+              "rating": {
+                "rating": "TVG",
+                "ratingSource": "USA_PR"
+              },
+              "genres": [
+        				"comedy",
+                "drama"
+        			],
+        			"tags": [
+                "teenager",
+                "high school",
+                "funny twins",
+                "twin girls",
+                "comedy",
+                "sisters",
+                "sister act",
+                "banks twins",
+                "teen girls",
+                "sisterhood"
+              ]
+    				},
+            {
+              "id": "S01EP06-737221837",
+    					"title": "Talent Show",
+    					"episodeNumber": 6,
+    					"content": {
+    						"dateAdded": "2022-08-18T17:32:44+0000",
+    						"videos": [{
+    							"videoType": "HLS",
+    							"url": "https://player.vimeo.com/external/737221837.m3u8?s=b35069db238a5db8c5dfd354936378f11c7aba33",
+    							"quality": "FHD"
+    						}],
+    						"duration": 1563,
+    						"language": "en-us"
+    					},
+    					"thumbnail": "https://static.wixstatic.com/media/0543c0_427e6cc09aae485b980b251e19427ea0~mv2.png",
+    					"releaseDate": "2021-12-1",
+    					"shortDescription": "The school talent show is finally here, but can the twins convince the class their talent is real?",
+    					"longDescription": "The school talent show is finally here, but can the twins convince the class their talent is real? Mr.Mennel tries his best to be a fair judge while the students antics drive him crazy.",
+              "credits": [
+                {
+                  "name": "Laverne Banks",
+                  "role": "actor",
+                  "birthDate": "1988-01-14"
+                },
+                {
+                  "name": "Shawvan Banks",
+                  "role": "actor",
+                  "birthDate": "1988-01-14"
+                },
+                {
+                  "name": "Brendon Brewer",
+                  "role": "actor",
+                  "birthDate": "1995-07-05"
+                },
+                {
+                  "name": "David Damelio Nicholas",
+                  "role": "actor",
+                  "birthDate": "2000-02-21"
+                },
+                {
+                  "name": "Veronica Lowe",
+                  "role": "actor",
+                  "birthDate": "1991-07-20"
+                },
+                {
+                  "name": "Dan Verkman",
+                  "role": "actor",
+                  "birthDate": "1965-01-19"
+                },
+                {
+                  "name": "J. Alexa",
+                  "role": "actor",
+                  "birthDate": "1987-12-15"
+                }
+              ],
+              "rating": {
+                "rating": "TVG",
+                "ratingSource": "USA_PR"
+              },
+              "genres": [
+        				"comedy",
+                "drama"
+        			],
+        			"tags": [
+                "teenager",
+                "high school",
+                "funny twins",
+                "twin girls",
+                "comedy",
+                "sisters",
+                "sister act",
+                "banks twins",
+                "teen girls",
+                "sisterhood"
+              ]
+    				},
+            {
+              "id": "S01EP07-737223728",
+    					"title": "Front Desk",
+    					"episodeNumber": 7,
+    					"content": {
+    						"dateAdded": "2022-08-18T17:32:44+0000",
+    						"videos": [{
+    							"videoType": "HLS",
+    							"url": "https://player.vimeo.com/external/737223728.m3u8?s=9e53ed47ac3569a029bbad4591585e431f39d577",
+    							"quality": "FHD"
+    						}],
+    						"duration": 1615,
+    						"language": "en-us"
+    					},
+    					"thumbnail": "https://static.wixstatic.com/media/0543c0_3ac25ce6311a4d93b12ba986ec6be957~mv2.png",
+    					"releaseDate": "2021-12-1",
+    					"shortDescription": "Jealousy is evident when one sister gets a promotion at the twins' very first job.",
+    					"longDescription": "Jealousy is evident when one sister gets a promotion at the twins' very first job. Shawvan demands respect from her subordinates while managing the hotel front desk.",
+              "credits": [
+                {
+                  "name": "Laverne Banks",
+                  "role": "actor",
+                  "birthDate": "1988-01-14"
+                },
+                {
+                  "name": "Shawvan Banks",
+                  "role": "actor",
+                  "birthDate": "1988-01-14"
+                },
+                {
+                  "name": "Peggy Banks",
+                  "role": "actor",
+                  "birthDate": "1996-07-19"
+                },
+                {
+                  "name": "David Damelio Nicholas",
+                  "role": "actor",
+                  "birthDate": "2000-02-21"
+                }
+              ],
+              "rating": {
+                "rating": "TVG",
+                "ratingSource": "USA_PR"
+              },
+              "genres": [
+        				"comedy",
+                "drama"
+        			],
+        			"tags": [
+                "teenager",
+                "high school",
+                "funny twins",
+                "twin girls",
+                "comedy",
+                "sisters",
+                "sister act",
+                "banks twins",
+                "teen girls",
+                "sisterhood"
+              ]
+    				},
+            {
+              "id": "S01EP08-737224232",
+    					"title": "Valentines Day",
+    					"episodeNumber": 8,
+    					"content": {
+    						"dateAdded": "2022-08-18T17:32:44+0000",
+    						"videos": [{
+    							"videoType": "HLS",
+    							"url": "https://player.vimeo.com/external/737224232.m3u8?s=d37dcda37b815755859d3af5d410e883102ee390",
+    							"quality": "FHD"
+    						}],
+    						"duration": 1329,
+    						"language": "en-us"
+    					},
+    					"thumbnail": "https://static.wixstatic.com/media/0543c0_eff86d9fc2e64c7f8f2931289f7b4e75~mv2.png",
+    					"releaseDate": "2021-12-1",
+    					"shortDescription": "When one twin is alone on the day of love, the other hatches a plan to set up her lonely sister.",
+    					"longDescription": "When one twin is alone on the day of love, the other hatches a plan to set up her lonely sister. Shawvan is not up for the game of love but is willing to try at least one new love interest.",
+              "credits": [
+                {
+                  "name": "Laverne Banks",
+                  "role": "actor",
+                  "birthDate": "1988-01-14"
+                },
+                {
+                  "name": "Shawvan Banks",
+                  "role": "actor",
+                  "birthDate": "1988-01-14"
+                },
+                {
+                  "name": "Brendon Brewer",
+                  "role": "actor",
+                  "birthDate": "1995-07-05"
+                },
+                {
+                  "name": "Erin Crocker",
+                  "role": "actor",
+                  "birthDate": "1982-10-13"
+                }
+              ],
+              "rating": {
+                "rating": "TVG",
+                "ratingSource": "USA_PR"
+              },
+              "genres": [
+        				"comedy",
+                "drama"
+        			],
+        			"tags": [
+                "teenager",
+                "high school",
+                "funny twins",
+                "twin girls",
+                "comedy",
+                "sisters",
+                "sister act",
+                "banks twins",
+                "teen girls",
+                "sisterhood"
+              ]
+    				}
+          ]
+        },
+        {
+          "seasonNumber": 2,
+          "episodes": [
+            {
+              "id": "S02EP01-737810498",
+    					"title": "Cheerleaders",
+    					"episodeNumber": 1,
+    					"content": {
+    						"dateAdded": "2022-08-18T17:32:44+0000",
+    						"videos": [{
+    							"videoType": "HLS",
+    							"url": "https://player.vimeo.com/external/737810498.m3u8?s=f52cd6d8f1652129691c0b54c342fba3d4ee0ff9",
+    							"quality": "FHD"
+    						}],
+    						"duration": 1326,
+    						"language": "en-us"
+    					},
+    					"thumbnail": "https://static.wixstatic.com/media/0543c0_273fccecfdac40ebb9dab6fda8fbbccf~mv2.png",
+    					"releaseDate": "2021-12-1",
+    					"shortDescription": "The cheerleading uniforms have gone missing, and the twins are searching for the culprit.",
+    					"longDescription": "The cheerleading uniforms have gone missing, and the twins are searching for the culprit. The twins suspect a rival teacher as the guilty party.",
+              "credits": [
+                {
+                  "name": "Laverne Banks",
+                  "role": "actor",
+                  "birthDate": "1988-01-14"
+                },
+                {
+                  "name": "Shawvan Banks",
+                  "role": "actor",
+                  "birthDate": "1988-01-14"
+                },
+                {
+                  "name": "Veronica Lowe",
+                  "role": "actor",
+                  "birthDate": "1991-07-20"
+                },
+                {
+                  "name": "Brendon Brewer",
+                  "role": "actor",
+                  "birthDate": "1995-07-05"
+                },
+                {
+                  "name": "Sidney Allen",
+                  "role": "actor",
+                  "birthDate": "1985-01-14"
+                },
+                {
+                  "name": "Liz Chuday",
+                  "role": "actor",
+                  "birthDate": "1956-11-20"
+                }
+              ],
+              "rating": {
+                "rating": "TVG",
+                "ratingSource": "USA_PR"
+              },
+              "genres": [
+        				"comedy",
+                "drama"
+        			],
+        			"tags": [
+                "teenager",
+                "high school",
+                "funny twins",
+                "twin girls",
+                "comedy",
+                "sisters",
+                "sister act",
+                "banks twins",
+                "teen girls",
+                "sisterhood"
+              ]
+    				},
+            {
+              "id": "S02EP02-737816018",
+    					"title": "Slow Uncle Moe",
+    					"episodeNumber": 2,
+    					"content": {
+    						"dateAdded": "2022-08-18T17:32:44+0000",
+    						"videos": [{
+    							"videoType": "HLS",
+    							"url": "https://player.vimeo.com/external/737816018.m3u8?s=1b981de75f2bfd82c7b52807026fba5b7740e749",
+    							"quality": "FHD"
+    						}],
+    						"duration": 1325,
+    						"language": "en-us"
+    					},
+    					"thumbnail": "https://static.wixstatic.com/media/0543c0_78e160aff717477fa699dd9336a9677b~mv2.png",
+    					"releaseDate": "2021-12-1",
+    					"shortDescription": "When nothing gets repaired in their home, the twins begin to question their uncle’s skills.",
+    					"longDescription": "When nothing gets repaired in their home, the twins begin to question their uncle’s skills. Uncle Moe tries to prove his worth, while expecting his hunger demands fulfilled.",
+              "credits": [
+                {
+                  "name": "Laverne Banks",
+                  "role": "actor",
+                  "birthDate": "1988-01-14"
+                },
+                {
+                  "name": "Shawvan Banks",
+                  "role": "actor",
+                  "birthDate": "1988-01-14"
+                },
+                {
+                  "name": "Sidney Allen",
+                  "role": "actor",
+                  "birthDate": "1985-01-14"
+                }
+              ],
+              "rating": {
+                "rating": "TVG",
+                "ratingSource": "USA_PR"
+              },
+              "genres": [
+        				"comedy",
+                "drama"
+        			],
+        			"tags": [
+                "teenager",
+                "high school",
+                "funny twins",
+                "twin girls",
+                "comedy",
+                "sisters",
+                "sister act",
+                "banks twins",
+                "teen girls",
+                "sisterhood"
+              ]
+    				},
+            {
+              "id": "S02EP03-737819723",
+    					"title": "Picture Day",
+    					"episodeNumber": 3,
+    					"content": {
+    						"dateAdded": "2022-08-18T17:32:44+0000",
+    						"videos": [{
+    							"videoType": "HLS",
+    							"url": "https://player.vimeo.com/external/737819723.m3u8?s=477f4a833f22402066bf8a16600ede5e8bc206dc",
+    							"quality": "FHD"
+    						}],
+    						"duration": 1353,
+    						"language": "en-us"
+    					},
+    					"thumbnail": "https://static.wixstatic.com/media/0543c0_a194a5e7a0704404931cd8897b47710a~mv2.png",
+    					"releaseDate": "2021-12-1",
+    					"shortDescription": "It's picture day at school, but one sister has a major problem while the class preps for headshots.",
+    					"longDescription": "It's picture day at school, but one sister has a major problem while the class preps for headshots. Laverne tries to conceal a pimple, while Brendan tries to reveal his love.",
+              "credits": [
+                {
+                  "name": "Laverne Banks",
+                  "role": "actor",
+                  "birthDate": "1988-01-14"
+                },
+                {
+                  "name": "Shawvan Banks",
+                  "role": "actor",
+                  "birthDate": "1988-01-14"
+                },
+                {
+                  "name": "David Damelio Nicholas",
+                  "role": "actor",
+                  "birthDate": "2000-02-21"
+                },
+                {
+                  "name": "Veronica Lowe",
+                  "role": "actor",
+                  "birthDate": "1991-07-20"
+                },
+                {
+                  "name": "Brendon Brewer",
+                  "role": "actor",
+                  "birthDate": "1995-07-05"
+                }
+              ],
+              "rating": {
+                "rating": "TVG",
+                "ratingSource": "USA_PR"
+              },
+              "genres": [
+        				"comedy",
+                "drama"
+        			],
+        			"tags": [
+                "teenager",
+                "high school",
+                "funny twins",
+                "twin girls",
+                "comedy",
+                "sisters",
+                "sister act",
+                "banks twins",
+                "teen girls",
+                "sisterhood"
+              ]
+    				},
+            {
+              "id": "S02EP04-737823389",
+    					"title": "Laverne's Lies",
+    					"episodeNumber": 4,
+    					"content": {
+    						"dateAdded": "2022-08-18T17:32:44+0000",
+    						"videos": [{
+    							"videoType": "HLS",
+    							"url": "https://player.vimeo.com/external/737823389.m3u8?s=8dbca10f8b0d0a09f6ebfa8f964f5b868d63761e",
+    							"quality": "FHD"
+    						}],
+    						"duration": 1615,
+    						"language": "en-us"
+    					},
+    					"thumbnail": "https://static.wixstatic.com/media/0543c0_a730b1ecec644ebf89e3883b727808d6~mv2.png",
+    					"releaseDate": "2021-12-1",
+    					"shortDescription": "Telling the truth seems to be difficult for one sister as she struggles to find the balance.",
+    					"longDescription": "Telling the truth seems to be difficult for one sister as she struggles to find the balance. Shawvan forces Laverne to be truthful when her deceit begins to affect her good standing.",
+              "credits": [
+                {
+                  "name": "Laverne Banks",
+                  "role": "actor",
+                  "birthDate": "1988-01-14"
+                },
+                {
+                  "name": "Shawvan Banks",
+                  "role": "actor",
+                  "birthDate": "1988-01-14"
+                },
+                {
+                  "name": "Liz Chuday",
+                  "role": "actor",
+                  "birthDate": "1956-11-20"
+                }
+              ],
+              "rating": {
+                "rating": "TVG",
+                "ratingSource": "USA_PR"
+              },
+              "genres": [
+        				"comedy",
+                "drama"
+        			],
+        			"tags": [
+                "teenager",
+                "high school",
+                "funny twins",
+                "twin girls",
+                "comedy",
+                "sisters",
+                "sister act",
+                "banks twins",
+                "teen girls",
+                "sisterhood"
+              ]
+    				},
+            {
+              "id": "S02EP05-737827091",
+    					"title": "Wilderness Girls",
+    					"episodeNumber": 5,
+    					"content": {
+    						"dateAdded": "2022-08-18T17:32:44+0000",
+    						"videos": [{
+    							"videoType": "HLS",
+    							"url": "https://player.vimeo.com/external/737827091.m3u8?s=d6b629443c00bf45f6bdb6a00e3dd0a093a71eb4",
+    							"quality": "FHD"
+    						}],
+    						"duration": 1323,
+    						"language": "en-us"
+    					},
+    					"thumbnail": "https://static.wixstatic.com/media/0543c0_d9c46a398bfc45608ff5942b8dd5f0ae~mv2.png",
+    					"releaseDate": "2021-12-1",
+    					"shortDescription": "The twins take their younger sister for a wilderness journey in their backyard.",
+    					"longDescription": "The twins take their younger sister for a wilderness journey in their backyard. Tales of their wooded experience are used to terrorize young Bianca.",
+              "credits": [
+                {
+                  "name": "Laverne Banks",
+                  "role": "actor",
+                  "birthDate": "1988-01-14"
+                },
+                {
+                  "name": "Shawvan Banks",
+                  "role": "actor",
+                  "birthDate": "1988-01-14"
+                },
+                {
+                  "name": "Gina Nicole Brown",
+                  "role": "actor",
+                  "birthDate": "1966-12-28"
+                },
+                {
+                  "name": "Laina Ramey",
+                  "role": "actor",
+                  "birthDate": "2005-12-18"
+                }
+              ],
+              "rating": {
+                "rating": "TVG",
+                "ratingSource": "USA_PR"
+              },
+              "genres": [
+        				"comedy",
+                "drama"
+        			],
+        			"tags": [
+                "teenager",
+                "high school",
+                "funny twins",
+                "twin girls",
+                "comedy",
+                "sisters",
+                "sister act",
+                "banks twins",
+                "teen girls",
+                "sisterhood"
+              ]
+    				},
+            {
+              "id": "S02EP06-737831488",
+    					"title": "Bodyguard",
+    					"episodeNumber": 6,
+    					"content": {
+    						"dateAdded": "2022-08-18T17:32:44+0000",
+    						"videos": [{
+    							"videoType": "HLS",
+    							"url": "https://player.vimeo.com/external/737831488.m3u8?s=8314a41ba3a1c9ac600e2e84295b276768d17e4d",
+    							"quality": "FHD"
+    						}],
+    						"duration": 1522,
+    						"language": "en-us"
+    					},
+    					"thumbnail": "https://static.wixstatic.com/media/0543c0_01c2e2251c904eb4a2133bb0a9ea37f4~mv2.png",
+    					"releaseDate": "2021-12-1",
+    					"shortDescription": "A neighborly mishap creates real grief for the twins and they decide to hire a bodyguard.",
+    					"longDescription": "A neighborly mishap creates real grief for the twins and they decide to hire a bodyguard. Laverne is terrified and decides to stay awake at all costs.",
+              "credits": [
+                {
+                  "name": "Laverne Banks",
+                  "role": "actor",
+                  "birthDate": "1988-01-14"
+                },
+                {
+                  "name": "Shawvan Banks",
+                  "role": "actor",
+                  "birthDate": "1988-01-14"
+                },
+                {
+                  "name": "Sidney Allen",
+                  "role": "actor",
+                  "birthDate": "1985-01-14"
+                }
+              ],
+              "rating": {
+                "rating": "TVG",
+                "ratingSource": "USA_PR"
+              },
+              "genres": [
+        				"comedy",
+                "drama"
+        			],
+        			"tags": [
+                "teenager",
+                "high school",
+                "funny twins",
+                "twin girls",
+                "comedy",
+                "sisters",
+                "sister act",
+                "banks twins",
+                "teen girls",
+                "sisterhood"
+              ]
+    				},
+            {
+              "id": "S02EP07-737836967",
+    					"title": "Twilight",
+    					"episodeNumber": 7,
+    					"content": {
+    						"dateAdded": "2022-08-18T17:32:44+0000",
+    						"videos": [{
+    							"videoType": "HLS",
+    							"url": "https://player.vimeo.com/external/737836967.m3u8?s=c09ad31378cd15685c5c95401d71e047785dbfdc",
+    							"quality": "FHD"
+    						}],
+    						"duration": 1435,
+    						"language": "en-us"
+    					},
+    					"thumbnail": "https://static.wixstatic.com/media/0543c0_29dd271139564c598aaab5124461ee5b~mv2.png",
+    					"releaseDate": "2021-12-1",
+    					"shortDescription": "When one sister gets her voice back, no one wants to speak to her, leaving her in a strange space.",
+    					"longDescription": "When one sister gets her voice back, no one wants to speak to her, leaving her in a strange space. Laverne is left without answers as she tries to find out who is behind her silent treament.",
+              "credits": [
+                {
+                  "name": "Laverne Banks",
+                  "role": "actor",
+                  "birthDate": "1988-01-14"
+                },
+                {
+                  "name": "Shawvan Banks",
+                  "role": "actor",
+                  "birthDate": "1988-01-14"
+                },
+                {
+                  "name": "David Damelio Nicholas",
+                  "role": "actor",
+                  "birthDate": "2000-02-21"
+                },
+                {
+                  "name": "Sidney Allen",
+                  "role": "actor",
+                  "birthDate": "1985-01-14"
+                },
+								{
+                  "name": "Veronica Lowe",
+                  "role": "actor",
+                  "birthDate": "1991-07-20"
+                },
+								{
+                  "name": "Victoria Stevens",
+                  "role": "actor",
+                  "birthDate": "1986-01-15"
+                },
+								{
+                  "name": "Khadesha Chiles",
+                  "role": "actor",
+                  "birthDate": "1999-11-01"
+                },
+								{
+                  "name": "Isaiah Welcome",
+                  "role": "actor",
+                  "birthDate": "1999-09-08"
+                },
+								{
+                  "name": "J Alexa",
+                  "role": "actor",
+                  "birthDate": "1987-12-15"
+                },
+								{
+                  "name": "Brendon Brewer",
+                  "role": "actor",
+                  "birthDate": "1995-07-05"
+                },
+								{
+                  "name": "Ke'Shaun Whitehead",
+                  "role": "actor",
+                  "birthDate": "2000-05-25"
+                }
+              ],
+              "rating": {
+                "rating": "TVG",
+                "ratingSource": "USA_PR"
+              },
+              "genres": [
+        				"comedy",
+                "drama"
+        			],
+        			"tags": [
+                "teenager",
+                "high school",
+                "funny twins",
+                "twin girls",
+                "comedy",
+                "sisters",
+                "sister act",
+                "banks twins",
+                "teen girls",
+                "sisterhood"
+              ]
+    				},
+            {
+              "id": "S02EP08-737841967",
+    					"title": "Bloopers",
+    					"episodeNumber": 8,
+    					"content": {
+    						"dateAdded": "2022-08-18T17:32:44+0000",
+    						"videos": [{
+    							"videoType": "HLS",
+    							"url": "https://player.vimeo.com/external/737841967.m3u8?s=9047c2d5d4b31675a52045d649d1ea1f1a038195",
+    							"quality": "FHD"
+    						}],
+    						"duration": 2039,
+    						"language": "en-us"
+    					},
+    					"thumbnail": "https://static.wixstatic.com/media/0543c0_c344d46ca1224f599bc697701f1d2429~mv2.png",
+    					"releaseDate": "2021-12-1",
+    					"shortDescription": "The twins review behind the scenes knowledge and fun facts in their blooper countdown.",
+    					"longDescription": "The twins review behind the scenes knowledge and fun facts in their blooper countdown. Shawvan convinces Laverne to relax and reminisce about their past antics with friends and teachers.",
+              "credits": [
+                {
+                  "name": "Laverne Banks",
+                  "role": "actor",
+                  "birthDate": "1988-01-14"
+                },
+                {
+                  "name": "Shawvan Banks",
+                  "role": "actor",
+                  "birthDate": "1988-01-14"
+                },
+								{
+                  "name": "Peggy Banks",
+                  "role": "actor",
+                  "birthDate": "1996-07-19"
+                },
+                {
+                  "name": "Brendon Brewer",
+                  "role": "actor",
+                  "birthDate": "1995-07-05"
+                },
+                {
+                  "name": "Erin Crocker",
+                  "role": "actor",
+                  "birthDate": "1982-10-13"
+                },
+								{
+                  "name": "Veronica Lowe",
+                  "role": "actor",
+                  "birthDate": "1991-07-20"
+                },
+								{
+                  "name": "David Damelio Nicholas",
+                  "role": "actor",
+                  "birthDate": "2000-02-21"
+                },
+								{
+                  "name": "Liz Chuday",
+                  "role": "actor",
+                  "birthDate": "1956-11-20"
+                },
+								{
+                  "name": "Amy Kriner",
+                  "role": "actor",
+                  "birthDate": "1975-02-01"
+                },
+								{
+                  "name": "Dan Verkman",
+                  "role": "actor",
+                  "birthDate": "1965-01-19"
+                },
+								{
+                  "name": "Gina Nicole Brown",
+                  "role": "actor",
+                  "birthDate": "1966-12-28"
+                },
+								{
+                  "name": "Jerrika Anderson Edwards",
+                  "role": "actor",
+                  "birthDate": "1991-11-05"
+                },
+								{
+                  "name": "Victoria Stevens",
+                  "role": "actor",
+                  "birthDate": "1986-01-15"
+                },
+								{
+                  "name": "J. Alexa",
+                  "role": "actor",
+                  "birthDate": "1987-12-15"
+                },
+								{
+                  "name": "Khadesha Chiles",
+                  "role": "actor",
+                  "birthDate": "1999-11-01"
+                },
+								{
+                  "name": "Sidney Allen",
+                  "role": "actor",
+                  "birthDate": "1985-01-14"
+                },
+								{
+                  "name": "Laina Ramey",
+                  "role": "actor",
+                  "birthDate": "2005-12-18"
+                },
+								{
+                  "name": "Ke'Shaun Whitehead",
+                  "role": "actor",
+                  "birthDate": "2000-05-25"
+                },
+								{
+                  "name": "Isaiah Welcome",
+                  "role": "actor",
+                  "birthDate": "1999-09-08"
+                }
+              ],
+              "rating": {
+                "rating": "TVG",
+                "ratingSource": "USA_PR"
+              },
+              "genres": [
+        				"comedy",
+                "drama"
+        			],
+        			"tags": [
+                "teenager",
+                "high school",
+                "funny twins",
+                "twin girls",
+                "comedy",
+                "sisters",
+                "sister act",
+                "banks twins",
+                "teen girls",
+                "sisterhood"
+              ]
+    				}
+          ]
+        }
+      ]
+		}
+	]
+}
